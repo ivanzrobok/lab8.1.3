@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lab8.1.3Test.cpp
+C:\Users\LapStore\source\repos\lab8.1.3\lab8.1.3\lab8.1.3.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\LapStore\source\repos\lab8.1.3\Debug\Lab8.1.3Test.lib и объект C:\Users\LapStore\source\repos\lab8.1.3\Debug\Lab8.1.3Test.exp
+  Lab8.1.3Test.vcxproj -> C:\Users\LapStore\source\repos\lab8.1.3\Debug\Lab8.1.3Test.dll
